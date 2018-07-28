@@ -7,14 +7,14 @@
               	  <h5 class="centered">M Fikrul Bachtiar</h5>
               	  	
                   <li class="mt">
-                      <a href="<?php base_url() ?>home">
+                      <a href="<?php base_url() ?>index.php/welcome/home">
                           <i class="fa fa-home"></i>
                           <span>HOME</span>
                       </a>
                   </li>
 
                   <li class="sub-menu">
-                      <a href="<?php base_url() ?>produk">
+                      <a href="<?php base_url() ?>index.php/welcome/produk">
                             <i class="fa fa-desktop"></i>
                             <span>Produk</span>
                       </a>
