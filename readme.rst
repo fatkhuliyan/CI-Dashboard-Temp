@@ -12,6 +12,6 @@ for a given task.
 
 
 ##########
-Copyright
+Author
 ##########
-FatkhulIyan-Stpd.os
+Fath
